@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/Project/catkin_ws/devel
+
+Name: depth_image
+Description: Description of depth_image
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib -ldepth_image
+Requires: cv_bridge roscpp sensor_msgs

@@ -1,0 +1,2 @@
+color_image:depth_image:imu_topic:map_build:odom_topic:point_cloud
+-DCATKIN_DEVEL_PREFIX=/home/ubuntu/Project/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu/Project/catkin_ws/install -G Unix Makefiles
