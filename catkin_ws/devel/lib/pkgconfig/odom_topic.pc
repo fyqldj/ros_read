@@ -1,8 +1,0 @@
-prefix=/home/ubuntu/Project/catkin_ws/devel
-
-Name: odom_topic
-Description: Description of odom_topic
-Version: 0.0.0
-Cflags: -I/home/ubuntu/Project/catkin_ws/src/odom_topic/include
-Libs: -L${prefix}/lib 
-Requires: nav_msgs roscpp std_msgs
